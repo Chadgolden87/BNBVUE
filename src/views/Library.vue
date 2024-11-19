@@ -6,7 +6,7 @@ import router from '@/router';
 
 const bookshelf = reactive([])
 
-fetch('http://localhost:3000/library')
+fetch('https://bnb-express.vercel.app/library')
 .then(response => {
     return response.json()
 })

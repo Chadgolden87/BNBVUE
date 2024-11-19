@@ -6,7 +6,7 @@ import { reactive } from 'vue';
 
 const upcomingEvents = reactive([])
 
-fetch('http://localhost:3000/upcoming')
+fetch('https://bnb-express.vercel.app/upcoming')
 .then(response => {
     return response.json()
 })

@@ -30,7 +30,7 @@ function addItem() {
        
     };
 
-    fetch('http://localhost:3000/volunteer', params)
+    fetch('https://bnb-express.vercel.app/volunteer', params)
     .then(response => response.json())
     .then(() => {
         router.push('/volunteer')

@@ -12,7 +12,7 @@ console.log(props.books.pdf);
    
     <h3 class="author">{{ books.author }}</h3>
     
-    <a class="pdf-link" :href="books.pdf">PDF LINK</a>
+    <a class="pdf-links" :href="books.pdf">PDF LINK</a>
   </div>
 </template>
 

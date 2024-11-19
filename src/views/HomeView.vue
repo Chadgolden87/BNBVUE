@@ -1,7 +1,7 @@
 <template>
   
   <header>
-    <img src="/Users/chadgolden/Library/CloudStorage/OneDrive-Humana/Desktop/Bnb VUE/Bnb VUE/src/assets/image1.png" alt="Logo" class="logo">
+    <img src="../assets/image1.png" alt="Logo" class="logo">
     <h1 class="bnb">Books  &  Breakfast  Louisville</h1>
 
   </header>
@@ -14,25 +14,25 @@
 
   <section class="image-quote-grid">
     <div class="quote-container">
-      <img src="/Users/chadgolden/Library/CloudStorage/OneDrive-Humana/Desktop/Bnb VUE/Bnb VUE/src/assets/MEBNB.jpg" alt="Image 1">
+      <img src="../assets/MEBNB.jpg" alt="Image 1">
       <div class="quote-text">"Education is the passport to the future, for tomorrow belongs to those who prepare for it today." - Malcolm X</div>
     </div>
     <div class="quote-container">
-      <img src="/Users/chadgolden/Library/CloudStorage/OneDrive-Humana/Desktop/Bnb VUE/Bnb VUE/src/assets/462688835_2567484726769986_3834716198970452907_n.jpg" alt="Image 2">
+      <img src="../assets/462688835_2567484726769986_3834716198970452907_n.jpg" alt="Image 2">
       <div class="quote-text">"Injustice anywhere is a threat to justice everywhere." - Martin Luther King Jr.</div>
     </div>
     <div class="quote-container large">
-      <img src="/Users/chadgolden/Library/CloudStorage/OneDrive-Humana/Desktop/Bnb VUE/Bnb VUE/src/assets/playcousins.jpg" alt="Image 3">
+      <img src="../assets/playcousins.jpg" alt="Image 3">
     </div>
     <div class="quote-container">
       <img src="https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-6/462536440_2564613223723803_4280170640448434099_n.jpg?stp=dst-jpg_tt6&_nc_cat=101&cb=99be929b-6bbdfb60&ccb=1-7&_nc_sid=cf85f3&_nc_ohc=gdZzinpK9foQ7kNvgHVcO59&_nc_ht=scontent-ord5-1.xx&_nc_gid=AnLpkcM4FulE7s48Er_-BfV&oh=00_AYCNc6MHri8_obOc_bR--43OcjaEivU6peHdpaL8N3jiJQ&oe=671F42BF" alt="Image 4">
     </div>
     <div class="quote-container">
-      <img src="/Users/chadgolden/Library/CloudStorage/OneDrive-Humana/Desktop/Bnb VUE/Bnb VUE/src/assets/BNBCREW.jpg" alt="Image 5">
+      <img src="../assets/BNBCREW.jpg" alt="Image 5">
       <div class="quote-text">"The revolution is not an apple that falls when it is ripe. You have to make it fall." - Che Guevara</div>
     </div>
     <div class="quote-container tall">
-      <img src="/Users/chadgolden/Library/CloudStorage/OneDrive-Humana/Desktop/Bnb VUE/Bnb VUE/src/assets/youngins.jpg" alt="Image 6">
+      <img src="../assets/youngins.jpg" alt="Image 6">
       <div class="quote-text">"Power concedes nothing without a demand. It never did and it never will." - Frederick Douglass</div>
     </div>
   </section>

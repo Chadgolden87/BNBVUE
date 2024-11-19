@@ -18,7 +18,7 @@
       <img
         href="http://localhost:5173/"
         class="logo"
-        src="/Users/chadgolden/Library/CloudStorage/OneDrive-Humana/Desktop/Bnb VUE/Bnb VUE/src/assets/image1.png"
+        src="./assets/image1.png"
       />
     </RouterLink>
 

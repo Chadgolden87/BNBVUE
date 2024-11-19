@@ -32,7 +32,7 @@ fetch('http://localhost:3000/upcoming')
 </div>
 
 
-<img src="/Users/chadgolden/Library/CloudStorage/OneDrive-Humana/Desktop/Bnb VUE/Bnb VUE/src/assets/cropped-Logo_Simple_2color-2.webp" alt="">
+<img src="../assets/cropped-Logo_Simple_2color-2.webp" alt="">
   
 
 

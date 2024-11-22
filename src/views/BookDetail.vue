@@ -11,7 +11,7 @@ let book = ref({
 let locations = ref([]);
 let loadingLocations = ref(true);
 
-fetch(`https://bnb-express.vercel.app//library/${props.id}`)
+fetch(`https://bnb-express.vercel.app/library/${props.id}`)
   .then((response) => {
     return response.json();
   })

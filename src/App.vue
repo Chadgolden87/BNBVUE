@@ -79,10 +79,10 @@ header {
   background-color: rgb(28, 116, 15);
   height: 88px;
   width: 100%;
-  gap: 70px;
+
   display: flex;
   flex-direction: row;
-  justify-content: center;
+  justify-content: space-evenly;
   font-family: "Agdasima", sans-serif;
   font-weight: 700;
   font-style: normal;
@@ -108,21 +108,19 @@ header {
   color: white;
 }
 
-@media screen  and (max-width: 480px){
-
-   .flex-container {
-  display: flex;
-  flex-direction: column;
-  align-items: center; 
-   width: 100vw;
-
-};
+@media screen and (max-width: 480px) {
+  .flex-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100vw;
+  }
 
   .topnav {
     display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
     width: 100vw;
   }
 }
-  
-
 </style>

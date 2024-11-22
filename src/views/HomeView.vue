@@ -25,7 +25,7 @@
       <img src="../assets/playcousins.jpg" alt="Image 3">
     </div>
     <div class="quote-container">
-      <img src="https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-6/462536440_2564613223723803_4280170640448434099_n.jpg?stp=dst-jpg_tt6&_nc_cat=101&cb=99be929b-6bbdfb60&ccb=1-7&_nc_sid=cf85f3&_nc_ohc=gdZzinpK9foQ7kNvgHVcO59&_nc_ht=scontent-ord5-1.xx&_nc_gid=AnLpkcM4FulE7s48Er_-BfV&oh=00_AYCNc6MHri8_obOc_bR--43OcjaEivU6peHdpaL8N3jiJQ&oe=671F42BF" alt="Image 4">
+      <img src="../assets/Quintez.jpg" alt="Image 4">
     </div>
     <div class="quote-container">
       <img src="../assets/BNBCREW.jpg" alt="Image 5">

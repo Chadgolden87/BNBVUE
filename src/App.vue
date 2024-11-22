@@ -120,7 +120,9 @@ header {
     display: flex;
     justify-content: space-around;
     flex-wrap: wrap;
+    padding: 10px;
     width: 100vw;
+    box-sizing: border-box;
   }
 }
 </style>

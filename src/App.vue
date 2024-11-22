@@ -130,5 +130,9 @@ header {
     padding: 10px 0;
     margin: 5px 0;
   }
+
+  .topnav img {
+    margin-bottom: 10px;
+  }
 }
 </style>

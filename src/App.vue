@@ -121,14 +121,14 @@ header {
     justify-content: space-around;
     flex-wrap: wrap;
     background-color: #333;
-    padding: 10px 20px;
+    padding: 10px;
     width: 100vw;
     box-sizing: border-box;
   }
 
   .topnav a {
     padding: 10px 0;
-    font-size: 14px;
+    margin: 5px 0;
   }
 }
 </style>

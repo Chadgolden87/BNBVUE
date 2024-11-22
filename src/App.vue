@@ -117,6 +117,10 @@ header {
    width: 100vw;
 
 };
+
+  .topnav {
+    display: flex;
+  }
 }
   
 

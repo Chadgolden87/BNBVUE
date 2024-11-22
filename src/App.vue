@@ -107,4 +107,17 @@ header {
   background-color: #04aa6d;
   color: white;
 }
+
+@media screen  and (max-width: 480px){
+
+   .flex-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center; 
+   width: 100vw;
+
+};
+}
+  
+
 </style>

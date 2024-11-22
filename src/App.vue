@@ -121,7 +121,7 @@ header {
     justify-content: space-around;
     flex-wrap: wrap;
     background-color: #333;
-    padding: 10px;
+    padding: 10px 20px;
     width: 100vw;
     box-sizing: border-box;
   }
